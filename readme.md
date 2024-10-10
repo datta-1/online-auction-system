@@ -1,7 +1,5 @@
 Hello,
 
-thank you for downloading Obaju, responsive bootstrap e-commerce template.
-
 ## 22 pages included: ##
 
 - Homepage
